@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.ezliv</groupId>
         <artifactId>ezcommerce</artifactId>
-        <version>1.0.5</version>
+        <version>1.0.6</version>
     </parent>
     <packaging>jar</packaging>
 
@@ -22,7 +22,12 @@
         <dependency>
             <groupId>com.ezliv</groupId>
             <artifactId>remote-config</artifactId>
-            <version>1.0.5</version>
+            <version>1.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ezliv</groupId>
+            <artifactId>sections-manager</artifactId>
+            <version>1.0.6</version>
         </dependency>
     </dependencies>
 
